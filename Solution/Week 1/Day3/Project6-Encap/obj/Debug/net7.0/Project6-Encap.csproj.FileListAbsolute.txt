@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\bin\Debug\net7.0\Project6-Encap.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\bin\Debug\net7.0\Project6-Encap.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\bin\Debug\net7.0\Project6-Encap.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\bin\Debug\net7.0\Project6-Encap.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\bin\Debug\net7.0\Project6-Encap.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\refint\Project6-Encap.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\Project6-Encap.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project6-Encap\obj\Debug\net7.0\ref\Project6-Encap.dll

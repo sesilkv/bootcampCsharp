@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LatihanOOP-Inheritance/1.0.0": {
+        "runtime": {
+          "LatihanOOP-Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatihanOOP-Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

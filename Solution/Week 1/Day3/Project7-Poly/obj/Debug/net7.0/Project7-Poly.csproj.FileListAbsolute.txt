@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\bin\Debug\net7.0\Project7-Poly.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\bin\Debug\net7.0\Project7-Poly.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\bin\Debug\net7.0\Project7-Poly.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\bin\Debug\net7.0\Project7-Poly.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\bin\Debug\net7.0\Project7-Poly.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\refint\Project7-Poly.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\Project7-Poly.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\Project7-Poly\obj\Debug\net7.0\ref\Project7-Poly.dll

@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\bin\Debug\net7.0\LatihanOOP-Inheritance.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\bin\Debug\net7.0\LatihanOOP-Inheritance.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\bin\Debug\net7.0\LatihanOOP-Inheritance.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\bin\Debug\net7.0\LatihanOOP-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\bin\Debug\net7.0\LatihanOOP-Inheritance.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\refint\LatihanOOP-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\LatihanOOP-Inheritance.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day3\LatihanOOP-Inheritance\obj\Debug\net7.0\ref\LatihanOOP-Inheritance.dll
