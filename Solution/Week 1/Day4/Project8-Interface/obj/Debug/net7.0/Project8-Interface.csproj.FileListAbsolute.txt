@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\bin\Debug\net7.0\Project8-Interface.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\bin\Debug\net7.0\Project8-Interface.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\bin\Debug\net7.0\Project8-Interface.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\bin\Debug\net7.0\Project8-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\bin\Debug\net7.0\Project8-Interface.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\refint\Project8-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\Project8-Interface.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project8-Interface\obj\Debug\net7.0\ref\Project8-Interface.dll

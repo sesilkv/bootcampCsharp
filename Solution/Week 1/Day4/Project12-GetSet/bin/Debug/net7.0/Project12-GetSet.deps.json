@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project12-GetSet/1.0.0": {
+        "runtime": {
+          "Project12-GetSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project12-GetSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\bin\Debug\net7.0\Project9-Abstract.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\bin\Debug\net7.0\Project9-Abstract.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\bin\Debug\net7.0\Project9-Abstract.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\bin\Debug\net7.0\Project9-Abstract.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\bin\Debug\net7.0\Project9-Abstract.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\refint\Project9-Abstract.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\Project9-Abstract.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project9-Abstract\obj\Debug\net7.0\ref\Project9-Abstract.dll

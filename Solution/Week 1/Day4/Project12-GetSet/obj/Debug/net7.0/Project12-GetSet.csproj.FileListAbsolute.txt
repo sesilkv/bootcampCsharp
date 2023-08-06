@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\bin\Debug\net7.0\Project12-GetSet.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\bin\Debug\net7.0\Project12-GetSet.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\bin\Debug\net7.0\Project12-GetSet.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\bin\Debug\net7.0\Project12-GetSet.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\bin\Debug\net7.0\Project12-GetSet.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\refint\Project12-GetSet.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\Project12-GetSet.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project12-GetSet\obj\Debug\net7.0\ref\Project12-GetSet.dll

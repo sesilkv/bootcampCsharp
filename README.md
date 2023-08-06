@@ -63,6 +63,26 @@ public class Lamp {
 Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 
 > ### Day 4 - 03/08/2023 (Project 8-12)
+*__4 PILAR OOP__*
+- ***ABSTRACTION***
+    - Class
+        - Solid
+        - Bisa dibuat instance
+    - Abstract class
+        - Solid + abstract
+        - Tidak bisa dibuat instance
+    - Interface
+        - Full abstract
+        - Tidak bisa dibuat instance
+        - Bisa multiple inherit
+        - Multiple interface di 1 class
+        - Declare variabel dengan property/variable method
+
+**LATIHAN MANDIRI** <br>
+- Interface CHECK
+- Abstract 
+- Abstract interface (ada non abstract, abstract override)
+- Parent => child, begitu juga sebaliknya
 
 > ### Day 5 - 04/08/2023 (Project 13-16)
 

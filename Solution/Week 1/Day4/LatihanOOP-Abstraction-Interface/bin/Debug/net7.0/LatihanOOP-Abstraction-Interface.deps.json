@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LatihanOOP-Abstraction-Interface/1.0.0": {
+        "runtime": {
+          "LatihanOOP-Abstraction-Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatihanOOP-Abstraction-Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

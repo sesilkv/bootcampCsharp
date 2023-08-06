@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\bin\Debug\net7.0\LatihanOOP-Abstraction-Interface.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\bin\Debug\net7.0\LatihanOOP-Abstraction-Interface.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\bin\Debug\net7.0\LatihanOOP-Abstraction-Interface.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\bin\Debug\net7.0\LatihanOOP-Abstraction-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\bin\Debug\net7.0\LatihanOOP-Abstraction-Interface.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\refint\LatihanOOP-Abstraction-Interface.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\LatihanOOP-Abstraction-Interface.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-Abstraction-Interface\obj\Debug\net7.0\ref\LatihanOOP-Abstraction-Interface.dll

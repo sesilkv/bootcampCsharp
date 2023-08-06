@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\bin\Debug\net7.0\Project10-ParentChild.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\bin\Debug\net7.0\Project10-ParentChild.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\bin\Debug\net7.0\Project10-ParentChild.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\bin\Debug\net7.0\Project10-ParentChild.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\bin\Debug\net7.0\Project10-ParentChild.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\refint\Project10-ParentChild.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\Project10-ParentChild.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\Project10-ParentChild\obj\Debug\net7.0\ref\Project10-ParentChild.dll
