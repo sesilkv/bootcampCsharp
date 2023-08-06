@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\bin\Debug\net7.0\Project15-CastingObject.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\bin\Debug\net7.0\Project15-CastingObject.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\bin\Debug\net7.0\Project15-CastingObject.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\bin\Debug\net7.0\Project15-CastingObject.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\bin\Debug\net7.0\Project15-CastingObject.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\refint\Project15-CastingObject.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\Project15-CastingObject.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project15-CastingObject\obj\Debug\net7.0\ref\Project15-CastingObject.dll

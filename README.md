@@ -6,7 +6,7 @@
 - Project structure
 - Scratch Class Diagram untuk membuat variabel dan methods
 - Class as a blueprint => object/instance
-
+---
 > ### Day 2 - 01/08/2023 (Project 2-5)
 - Method with parameters inside
 - Class ada variabel dan function/method
@@ -39,7 +39,7 @@ public class Lamp {
 
 *__4 PILAR OOP__*
 - INHERITANCE (Project 5)
-
+---
 > ### Day 3 - 02/08/2023 (Project 6-7)
 - Default access modifier pada class adalah internal
 
@@ -62,6 +62,7 @@ public class Lamp {
 **LATIHAN MANDIRI** <br>
 Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 
+---
 > ### Day 4 - 03/08/2023 (Project 8-12)
 *__4 PILAR OOP__*
 - ***ABSTRACTION***
@@ -83,8 +84,27 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 - Abstract 
 - Abstract interface (ada non abstract, abstract override)
 - Parent => child, begitu juga sebaliknya
-
+---
 > ### Day 5 - 04/08/2023 (Project 13-16)
+***CASTING ADA 2 TIPE***
+- Explicit (tipe data besar ke kecil)
+- Implicit
+
+***PROSES BOXING***
+- Membungkus data apapun menggunakan objek
+- Class static tidak bisa dibuat instance
+
+***PRINSIP DASAR PROGRAMMING***
+- SOLID
+    - `Single Responsibility`
+    - `Single Responsibility`
+    - `Single Responsibility`
+    - `Single Responsibility`
+    - `Single Responsibility`
+- DRY
+    - `Single Responsibility`
+    - `Single Responsibility`
+- KISS
 
 
 ## WEEK 2

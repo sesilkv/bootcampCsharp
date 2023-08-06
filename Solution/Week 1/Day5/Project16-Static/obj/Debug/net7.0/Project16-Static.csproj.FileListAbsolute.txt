@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\bin\Debug\net7.0\Project16-Static.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\bin\Debug\net7.0\Project16-Static.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\bin\Debug\net7.0\Project16-Static.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\bin\Debug\net7.0\Project16-Static.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\bin\Debug\net7.0\Project16-Static.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\refint\Project16-Static.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\Project16-Static.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project16-Static\obj\Debug\net7.0\ref\Project16-Static.dll

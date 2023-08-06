@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\bin\Debug\net7.0\Project14-Dynamic.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\bin\Debug\net7.0\Project14-Dynamic.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\bin\Debug\net7.0\Project14-Dynamic.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\bin\Debug\net7.0\Project14-Dynamic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\bin\Debug\net7.0\Project14-Dynamic.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\refint\Project14-Dynamic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\Project14-Dynamic.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project14-Dynamic\obj\Debug\net7.0\ref\Project14-Dynamic.dll

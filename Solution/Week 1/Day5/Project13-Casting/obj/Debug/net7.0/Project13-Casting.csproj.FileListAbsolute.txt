@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\bin\Debug\net7.0\Project13-Casting.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\bin\Debug\net7.0\Project13-Casting.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\bin\Debug\net7.0\Project13-Casting.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\bin\Debug\net7.0\Project13-Casting.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\bin\Debug\net7.0\Project13-Casting.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\refint\Project13-Casting.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\Project13-Casting.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project13-Casting\obj\Debug\net7.0\ref\Project13-Casting.dll
