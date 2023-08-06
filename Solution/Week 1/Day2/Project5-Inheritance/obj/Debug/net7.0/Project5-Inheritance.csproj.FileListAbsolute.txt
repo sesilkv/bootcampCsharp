@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\bin\Debug\net7.0\Project5-Inheritance.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\bin\Debug\net7.0\Project5-Inheritance.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\bin\Debug\net7.0\Project5-Inheritance.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\bin\Debug\net7.0\Project5-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\bin\Debug\net7.0\Project5-Inheritance.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\refint\Project5-Inheritance.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\Project5-Inheritance.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project5-Inheritance\obj\Debug\net7.0\ref\Project5-Inheritance.dll

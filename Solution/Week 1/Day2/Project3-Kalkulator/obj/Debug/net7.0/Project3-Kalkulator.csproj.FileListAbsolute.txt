@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\bin\Debug\net7.0\Project3-Kalkulator.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\bin\Debug\net7.0\Project3-Kalkulator.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\bin\Debug\net7.0\Project3-Kalkulator.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\bin\Debug\net7.0\Project3-Kalkulator.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\bin\Debug\net7.0\Project3-Kalkulator.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\refint\Project3-Kalkulator.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\Project3-Kalkulator.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project3-Kalkulator\obj\Debug\net7.0\ref\Project3-Kalkulator.dll

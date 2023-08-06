@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\bin\Debug\net7.0\Project4-ManyClass.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\bin\Debug\net7.0\Project4-ManyClass.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\bin\Debug\net7.0\Project4-ManyClass.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\bin\Debug\net7.0\Project4-ManyClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\bin\Debug\net7.0\Project4-ManyClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\refint\Project4-ManyClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\Project4-ManyClass.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day2\Project4-ManyClass\obj\Debug\net7.0\ref\Project4-ManyClass.dll
