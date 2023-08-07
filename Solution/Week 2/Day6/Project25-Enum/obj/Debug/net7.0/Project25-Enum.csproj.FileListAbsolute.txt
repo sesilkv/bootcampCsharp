@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\bin\Debug\net7.0\Project25-Enum.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\bin\Debug\net7.0\Project25-Enum.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\bin\Debug\net7.0\Project25-Enum.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\bin\Debug\net7.0\Project25-Enum.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\bin\Debug\net7.0\Project25-Enum.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\refint\Project25-Enum.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\Project25-Enum.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day6\Project25-Enum\obj\Debug\net7.0\ref\Project25-Enum.dll
