@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\bin\Debug\net7.0\LatihanOOP-AbstractClass.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\bin\Debug\net7.0\LatihanOOP-AbstractClass.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\bin\Debug\net7.0\LatihanOOP-AbstractClass.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\bin\Debug\net7.0\LatihanOOP-AbstractClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\bin\Debug\net7.0\LatihanOOP-AbstractClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\refint\LatihanOOP-AbstractClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\LatihanOOP-AbstractClass.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day4\LatihanOOP-AbstractClass\obj\Debug\net7.0\ref\LatihanOOP-AbstractClass.dll

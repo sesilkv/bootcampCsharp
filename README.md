@@ -81,8 +81,8 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 
 **LATIHAN MANDIRI** <br>
 - Interface CHECK
-- Abstract 
-- Abstract interface (ada non abstract, abstract override)
+- Abstract CHECK
+- Abstract interface (ada non abstract)
 - Parent => child, begitu juga sebaliknya
 ---
 > ### Day 5 - 04/08/2023 (Project 13-16)
@@ -97,19 +97,27 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 ***PRINSIP DASAR PROGRAMMING***
 - SOLID
     - `Single Responsibility`
-    - `Single Responsibility`
-    - `Single Responsibility`
-    - `Single Responsibility`
-    - `Single Responsibility`
-- DRY
-    - `Single Responsibility`
-    - `Single Responsibility`
-- KISS
+    - `Open Closed`
+    - `Liskov Substitution`
+    - `Interface Segregation`
+    - `Dependency Inversion/Injention`
+- DRY `Don't Repeat Yourself`
+    - Semua bagian data hanya diproses di satu tempat
+- KISS `Keep It Simple, Stupid`
+    - Kode efisien dan sederhana
 
 
 ## WEEK 2
-### Day 6 - 07/08/2023
-### Day 7 - 08/08/2023
-### Day 8 - 09/08/2023
-### Day 9 - 10/08/2023
-### Day 10 - 11/08/2023
+> ### Day 6 - 07/08/2023
+
+---
+> ### Day 7 - 08/08/2023
+
+---
+> ### Day 8 - 09/08/2023
+
+---
+> ### Day 9 - 10/08/2023
+
+---
+> ### Day 10 - 11/08/2023
