@@ -95,7 +95,7 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 - Class static tidak bisa dibuat instance
 
 ***PRINSIP DASAR PROGRAMMING***
-- SOLID
+- SOLID [Link penjelasan](https://kodebagus.medium.com/solid-principles-daf3282a4e70)
     - `Single Responsibility`
     - `Open Closed`
     - `Liskov Substitution`
