@@ -87,8 +87,8 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 ---
 > ### Day 5 - 04/08/2023 (Project 13-16)
 ***CASTING ADA 2 TIPE***
-- Explicit (tipe data besar ke kecil)
-- Implicit
+- Explicit (tipe data besar ke kecil) downcast
+- Implicit (tipe data kecil ke besar) upcast
 
 ***PROSES BOXING***
 - Membungkus data apapun menggunakan objek
@@ -108,8 +108,34 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 
 
 ## WEEK 2
-> ### Day 6 - 07/08/2023
-
+> ### Day 6 - 07/08/2023 (Project 18-)
+- Review Upcast Downcast (Explicit Implicit)
+- Pattern Matching (Project 18)
+- Ref, In, Out
+    - Ref (Project 19)
+        - Declare harus ada value nya
+        - Yang dipassing address memory nya (pointer), bukan value
+    - Out (Project 20)
+        - Declare bisa kosongan
+        - Passing kosongan, output harus ada value
+        - Mengubah string ke int dengan `TryParse`
+    - In (Project 21)
+        - Tidak boleh diubah valuenya
+        - Status read-only
+- Value and Reference Type
+    - String
+        - Immutable
+        - Pakai StringBuilder => append method (memori yg sama, tidak membuat memori baru) (Project 22)
+- Const & read-only (Project 23)
+    - Const
+        - Static
+        - Must assign value on variabel
+    - Read-only
+        - Dibuat instance
+        - Empty variable, assign it via constructor
+- Enum
+- Generic
+    - Bisa isi tipe data apapun tergantung user
 ---
 > ### Day 7 - 08/08/2023
 

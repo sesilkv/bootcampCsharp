@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\bin\Debug\net7.0\Project19-Ref.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\bin\Debug\net7.0\Project19-Ref.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\bin\Debug\net7.0\Project19-Ref.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\bin\Debug\net7.0\Project19-Ref.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\bin\Debug\net7.0\Project19-Ref.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\refint\Project19-Ref.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\Project19-Ref.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project19-Ref\obj\Debug\net7.0\ref\Project19-Ref.dll

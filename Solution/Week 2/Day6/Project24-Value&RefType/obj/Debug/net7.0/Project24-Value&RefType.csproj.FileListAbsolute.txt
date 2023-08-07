@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\bin\Debug\net7.0\Project24-Value&RefType.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\bin\Debug\net7.0\Project24-Value&RefType.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\bin\Debug\net7.0\Project24-Value&RefType.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\bin\Debug\net7.0\Project24-Value&RefType.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\bin\Debug\net7.0\Project24-Value&RefType.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\refint\Project24-Value&RefType.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\Project24-Value&RefType.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project24-Value&RefType\obj\Debug\net7.0\ref\Project24-Value&RefType.dll
