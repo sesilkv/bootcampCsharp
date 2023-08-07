@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\bin\Debug\net7.0\Project17-TipeDataINT.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\bin\Debug\net7.0\Project17-TipeDataINT.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\bin\Debug\net7.0\Project17-TipeDataINT.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\bin\Debug\net7.0\Project17-TipeDataINT.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\bin\Debug\net7.0\Project17-TipeDataINT.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\refint\Project17-TipeDataINT.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\Project17-TipeDataINT.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 1\Day5\Project17-TipeDataINT\obj\Debug\net7.0\ref\Project17-TipeDataINT.dll
