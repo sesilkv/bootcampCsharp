@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\bin\Debug\net7.0\Project31-AdvancedDelegate.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\bin\Debug\net7.0\Project31-AdvancedDelegate.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\bin\Debug\net7.0\Project31-AdvancedDelegate.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\bin\Debug\net7.0\Project31-AdvancedDelegate.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\bin\Debug\net7.0\Project31-AdvancedDelegate.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\refint\Project31-AdvancedDelegate.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\Project31-AdvancedDelegate.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day7\Project31-AdvancedDelegate\obj\Debug\net7.0\ref\Project31-AdvancedDelegate.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project31-AdvancedDelegate/1.0.0": {
+        "runtime": {
+          "Project31-AdvancedDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project31-AdvancedDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
