@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\bin\Debug\net7.0\Project28-AnotherGeneric.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\bin\Debug\net7.0\Project28-AnotherGeneric.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\bin\Debug\net7.0\Project28-AnotherGeneric.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\bin\Debug\net7.0\Project28-AnotherGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\bin\Debug\net7.0\Project28-AnotherGeneric.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\refint\Project28-AnotherGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\Project28-AnotherGeneric.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project28-AnotherGeneric\obj\Debug\net7.0\ref\Project28-AnotherGeneric.dll

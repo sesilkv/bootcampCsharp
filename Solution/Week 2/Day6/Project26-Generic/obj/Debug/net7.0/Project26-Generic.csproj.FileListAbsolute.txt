@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\bin\Debug\net7.0\Project26-Generic.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\bin\Debug\net7.0\Project26-Generic.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\bin\Debug\net7.0\Project26-Generic.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\bin\Debug\net7.0\Project26-Generic.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\bin\Debug\net7.0\Project26-Generic.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\refint\Project26-Generic.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\Project26-Generic.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day6\Project26-Generic\obj\Debug\net7.0\ref\Project26-Generic.dll
