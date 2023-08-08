@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\bin\Debug\net7.0\Project30-DelegateKalku.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\bin\Debug\net7.0\Project30-DelegateKalku.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\bin\Debug\net7.0\Project30-DelegateKalku.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\bin\Debug\net7.0\Project30-DelegateKalku.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\bin\Debug\net7.0\Project30-DelegateKalku.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\refint\Project30-DelegateKalku.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\Project30-DelegateKalku.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project30-DelegateKalku\obj\Debug\net7.0\ref\Project30-DelegateKalku.dll

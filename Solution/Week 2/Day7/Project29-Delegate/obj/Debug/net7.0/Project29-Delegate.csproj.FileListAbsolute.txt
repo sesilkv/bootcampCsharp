@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\bin\Debug\net7.0\Project29-Delegate.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\bin\Debug\net7.0\Project29-Delegate.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\bin\Debug\net7.0\Project29-Delegate.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\bin\Debug\net7.0\Project29-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\bin\Debug\net7.0\Project29-Delegate.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\refint\Project29-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\Project29-Delegate.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day7\Project29-Delegate\obj\Debug\net7.0\ref\Project29-Delegate.dll

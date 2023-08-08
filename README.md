@@ -111,7 +111,7 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 > ### Day 6 - 07/08/2023 (Project 18-)
 - Review Upcast Downcast (Explicit Implicit)
 - Pattern Matching (Project 18)
-- Ref, In, Out
+- Ref, In, Out (pass address as an argument)
     - Ref (Project 19)
         - Declare harus ada value nya
         - Yang dipassing address memory nya (pointer), bukan value
@@ -138,7 +138,21 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
     - Bisa isi tipe data apapun tergantung user
 ---
 > ### Day 7 - 08/08/2023
+- Tipe2 class
+    - Class concrete
+    - Struct
+    - Enum
+    - Generic
+    - Delegate
+    - Abstract
+    - Interface
+- Delegate (pass method as an argument)<br>
+``` public delegate void MyDel() ``` <br>
+**Karakteristik *signature*** => method di dalamnya MUST HAVE THE SAME RETURN VALUE AND PARAMETER
+    - Callback function
+    - Publisher Subscriber
 
+- Tuple
 ---
 > ### Day 8 - 09/08/2023
 
