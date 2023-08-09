@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\bin\Debug\net7.0\Latihan-FooBar.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\bin\Debug\net7.0\Latihan-FooBar.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\bin\Debug\net7.0\Latihan-FooBar.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\bin\Debug\net7.0\Latihan-FooBar.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\bin\Debug\net7.0\Latihan-FooBar.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\refint\Latihan-FooBar.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\Latihan-FooBar.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-FooBar\obj\Debug\net7.0\ref\Latihan-FooBar.dll
