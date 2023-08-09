@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\bin\Debug\net7.0\Latihan-Delegate.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\bin\Debug\net7.0\Latihan-Delegate.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\bin\Debug\net7.0\Latihan-Delegate.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\bin\Debug\net7.0\Latihan-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\bin\Debug\net7.0\Latihan-Delegate.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\refint\Latihan-Delegate.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\Latihan-Delegate.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Delegate\obj\Debug\net7.0\ref\Latihan-Delegate.dll

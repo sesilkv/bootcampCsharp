@@ -118,7 +118,15 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
     - Out (Project 20)
         - Declare bisa kosongan
         - Passing kosongan, output harus ada value
-        - Mengubah string ke int dengan `TryParse`
+        - Mengubah string ke int dengan `Parse`
+
+
+```
+string input = Console.ReadLine();
+int x = int.Parse(input);
+```
+
+
     - In (Project 21)
         - Tidak boleh diubah valuenya
         - Status read-only
@@ -155,7 +163,9 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
 - Tuple
 ---
 > ### Day 8 - 09/08/2023
-
+- Event: 
+    - EventArgs.
+- ExceptionHandler => try catch
 ---
 > ### Day 9 - 10/08/2023
 
