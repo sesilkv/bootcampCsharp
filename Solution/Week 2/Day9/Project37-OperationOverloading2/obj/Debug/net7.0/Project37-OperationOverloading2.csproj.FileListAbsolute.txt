@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\bin\Debug\net7.0\Project37-OperationOverloading2.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\bin\Debug\net7.0\Project37-OperationOverloading2.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\bin\Debug\net7.0\Project37-OperationOverloading2.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\bin\Debug\net7.0\Project37-OperationOverloading2.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\bin\Debug\net7.0\Project37-OperationOverloading2.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\refint\Project37-OperationOverloading2.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\Project37-OperationOverloading2.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day9\Project37-OperationOverloading2\obj\Debug\net7.0\ref\Project37-OperationOverloading2.dll

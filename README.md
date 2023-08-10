@@ -39,6 +39,7 @@ public class Lamp {
 
 *__4 PILAR OOP__*
 - INHERITANCE (Project 5)
+    - Constructor tidak bisa di-inherit, harus buat sendiri per class
 ---
 > ### Day 3 - 02/08/2023 (Project 6-7)
 - Default access modifier pada class adalah internal
@@ -78,6 +79,7 @@ Inheritance - Encap - Poly aku gabung jd satu => Stranger Things
         - Bisa multiple inherit
         - Multiple interface di 1 class
         - Declare variabel dengan property/variable method
+        - Anak interface => implement
 
 **LATIHAN MANDIRI** <br>
 - Interface CHECK
@@ -149,7 +151,7 @@ int x = int.Parse(input);
 - Tipe2 class
     - Class concrete
     - Struct
-    - Enum
+    - Enum => data2 yg constant/collection of constant
     - Generic
     - Delegate
     - Abstract
@@ -166,8 +168,17 @@ int x = int.Parse(input);
 - Event: 
     - EventArgs.
 - ExceptionHandler => try catch
+- Parse, TryParse
 ---
 > ### Day 9 - 10/08/2023
-
----
+- Operator Overloading
+- Enum => collection of constant data
+- Numerator - Denominator
+- Try-Catch-Finally
+- Enumerable (kendaraan) => return IEnumerator (mesin)
+    - Object yg bisa di-iterasi
+    - Bisa diterapkan di array/collection (list, dictionary)
+    - Method `GetEnumerator` => bool MoveNext(), Reset()
+    - Property `GetEnumerator` => Current
+    - Bisa melakukan foreach
 > ### Day 10 - 11/08/2023

@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\bin\Debug\net7.0\Latihan-OperatorOverloading.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\bin\Debug\net7.0\Latihan-OperatorOverloading.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\bin\Debug\net7.0\Latihan-OperatorOverloading.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\bin\Debug\net7.0\Latihan-OperatorOverloading.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\bin\Debug\net7.0\Latihan-OperatorOverloading.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\refint\Latihan-OperatorOverloading.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\Latihan-OperatorOverloading.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-OperatorOverloading\obj\Debug\net7.0\ref\Latihan-OperatorOverloading.dll

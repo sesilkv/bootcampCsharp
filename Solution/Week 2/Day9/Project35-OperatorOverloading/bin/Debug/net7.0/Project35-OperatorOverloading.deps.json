@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project35-OperatorOverloading/1.0.0": {
+        "runtime": {
+          "Project35-OperatorOverloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project35-OperatorOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

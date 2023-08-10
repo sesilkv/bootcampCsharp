@@ -3,13 +3,7 @@
 class Program
 {
 	static void Main()
-	{
-		// foreach (var day in Enum.GetValues(typeof(DaysOfWeek)))
-		// {
-		// 	Console.WriteLine(day);
-		// }
-		
-		
+	{	
 		DaysOfWeek today = DaysOfWeek.Monday;
 		Console.WriteLine((int)today);
 		Console.WriteLine("Today is: " + today);
@@ -43,7 +37,7 @@ class Program
 
 public enum DaysOfWeek
 	{
-		Monday=0,
+		Monday,
 		Tuesday,
 		Wednesday,
 		Thursday,

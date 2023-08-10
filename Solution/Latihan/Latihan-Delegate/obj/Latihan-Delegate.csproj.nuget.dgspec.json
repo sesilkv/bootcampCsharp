@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {}
+    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {}
   },
   "projects": {
-    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {
+    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+        "projectUniqueName": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
         "projectName": "Latihan-Delegate",
-        "projectPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+        "projectPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
+        "outputPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
