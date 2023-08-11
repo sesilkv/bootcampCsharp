@@ -173,7 +173,7 @@ int x = int.Parse(input);
 > ### Day 9 - 10/08/2023
 - Operator Overloading
 - Enum => collection of constant data
-- Numerator - Denominator
+- Enumerator - Denominator
 - Try-Catch-Finally
 - Enumerable (kendaraan) => return IEnumerator (mesin)
     - Object yg bisa di-iterasi
@@ -181,4 +181,13 @@ int x = int.Parse(input);
     - Method `GetEnumerator` => bool MoveNext(), Reset()
     - Property `GetEnumerator` => Current
     - Bisa melakukan foreach
+---
 > ### Day 10 - 11/08/2023
+- Substring => ngambil dari indeks awal ke indeks terakhir yg direquest
+- ToUpper
+- ToLower
+- Trim => ngilangin seluruh spasi sebelum dan sesudah
+- Replace => 
+- Split
+- Contains
+- Convert
