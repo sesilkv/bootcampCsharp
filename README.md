@@ -167,6 +167,7 @@ int x = int.Parse(input);
 > ### Day 8 - 09/08/2023
 - Event: 
     - EventArgs.
+    - tidak bisa = saja
 - ExceptionHandler => try catch
 - Parse, TryParse
 ---
@@ -191,3 +192,21 @@ int x = int.Parse(input);
 - Split
 - Contains
 - Convert
+- DeadTime
+- Equals Comparison => menggunakan address yg berisi value 
+- FormatterParse
+
+Value Type
+    - int
+    - double
+    - decimal
+    - long
+    - char
+    - double
+
+Ref Type
+    - Str
+    - List
+    - Class
+    - Array
+    - Object

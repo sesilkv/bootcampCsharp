@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\bin\Debug\net7.0\Latihan-Enum.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\bin\Debug\net7.0\Latihan-Enum.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\bin\Debug\net7.0\Latihan-Enum.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\bin\Debug\net7.0\Latihan-Enum.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\bin\Debug\net7.0\Latihan-Enum.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\refint\Latihan-Enum.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\Latihan-Enum.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-Enum\obj\Debug\net7.0\ref\Latihan-Enum.dll

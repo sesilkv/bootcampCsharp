@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\bin\Debug\net7.0\Project41-Equals.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\bin\Debug\net7.0\Project41-Equals.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\bin\Debug\net7.0\Project41-Equals.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\bin\Debug\net7.0\Project41-Equals.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\bin\Debug\net7.0\Project41-Equals.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\refint\Project41-Equals.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\Project41-Equals.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 2\Day10\Project41-Equals\obj\Debug\net7.0\ref\Project41-Equals.dll

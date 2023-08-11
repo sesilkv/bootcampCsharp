@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day10\\Project41-Equals\\Project41-Equals.csproj": {}
+  },
+  "projects": {
+    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day10\\Project41-Equals\\Project41-Equals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day10\\Project41-Equals\\Project41-Equals.csproj",
+        "projectName": "Project41-Equals",
+        "projectPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day10\\Project41-Equals\\Project41-Equals.csproj",
+        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+        "outputPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day10\\Project41-Equals\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
