@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\bin\Debug\net7.0\Project42-AnotherConversion.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\bin\Debug\net7.0\Project42-AnotherConversion.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\bin\Debug\net7.0\Project42-AnotherConversion.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\bin\Debug\net7.0\Project42-AnotherConversion.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\bin\Debug\net7.0\Project42-AnotherConversion.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\refint\Project42-AnotherConversion.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\Project42-AnotherConversion.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project42-AnotherConversion\obj\Debug\net7.0\ref\Project42-AnotherConversion.dll

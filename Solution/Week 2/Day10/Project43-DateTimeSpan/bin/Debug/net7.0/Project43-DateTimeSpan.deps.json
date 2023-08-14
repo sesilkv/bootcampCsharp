@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project43-DateTimeSpan/1.0.0": {
+        "runtime": {
+          "Project43-DateTimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project43-DateTimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

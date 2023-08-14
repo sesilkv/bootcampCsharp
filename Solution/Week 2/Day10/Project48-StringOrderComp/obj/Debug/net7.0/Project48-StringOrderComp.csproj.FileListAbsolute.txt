@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\bin\Debug\net7.0\Project48-StringOrderComp.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\bin\Debug\net7.0\Project48-StringOrderComp.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\bin\Debug\net7.0\Project48-StringOrderComp.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\bin\Debug\net7.0\Project48-StringOrderComp.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\bin\Debug\net7.0\Project48-StringOrderComp.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\refint\Project48-StringOrderComp.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\Project48-StringOrderComp.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 2\Day10\Project48-StringOrderComp\obj\Debug\net7.0\ref\Project48-StringOrderComp.dll
