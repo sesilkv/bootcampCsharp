@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\bin\Debug\net7.0\Project54-ListGeneric.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\bin\Debug\net7.0\Project54-ListGeneric.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\bin\Debug\net7.0\Project54-ListGeneric.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\bin\Debug\net7.0\Project54-ListGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\bin\Debug\net7.0\Project54-ListGeneric.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\refint\Project54-ListGeneric.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\Project54-ListGeneric.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project54-ListGeneric\obj\Debug\net7.0\ref\Project54-ListGeneric.dll

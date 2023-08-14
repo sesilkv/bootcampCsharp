@@ -210,3 +210,42 @@ Ref Type
     - Class
     - Array
     - Object
+
+
+## Week 3
+> ### Day 11 - 14/08/2023
+- Collection of multiple data YANG BISA DIUBAH, tidak seperti enum
+    - Array
+        - Fix size
+        - Type safety
+        - Index[]
+    - ArrayList => multiple type of data
+        - Dynamic size
+        - NOT type safety (tipe data apapun bisa dicampur)
+        - Index[]
+    - List Generic<T>
+        - Dynamic size
+        - Type safety
+        - Index[]
+    - HashSet
+        - Dynamic
+        - Type safety
+        - Unique, tidak ada data yg sama
+    - LinkedList
+        - Dynamic size
+        - Type safety
+        - Performance add/remove item in index
+        - Data sangat bergantung pada index, maka menggunakan ini
+        - Kekurangan: boros memori
+- Dictionary
+    - Safety
+    - Dynamic
+- Hashtable
+    - Not safety
+- SortedDictionary
+    - Sort based on the key
+    
+
+> ### Day 12 - 15/08/2023
+
+> ### Day 13 - 16/08/2023

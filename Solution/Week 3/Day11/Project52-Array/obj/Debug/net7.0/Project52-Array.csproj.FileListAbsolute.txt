@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\bin\Debug\net7.0\Project52-Array.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\bin\Debug\net7.0\Project52-Array.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\bin\Debug\net7.0\Project52-Array.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\bin\Debug\net7.0\Project52-Array.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\bin\Debug\net7.0\Project52-Array.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\refint\Project52-Array.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\Project52-Array.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project52-Array\obj\Debug\net7.0\ref\Project52-Array.dll

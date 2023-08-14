@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\bin\Debug\net7.0\Project55-HashSet.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\bin\Debug\net7.0\Project55-HashSet.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\bin\Debug\net7.0\Project55-HashSet.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\bin\Debug\net7.0\Project55-HashSet.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\bin\Debug\net7.0\Project55-HashSet.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\refint\Project55-HashSet.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\Project55-HashSet.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 3\Day11\Project55-HashSet\obj\Debug\net7.0\ref\Project55-HashSet.dll
