@@ -1,8 +1,9 @@
 ﻿class Program {
 	static void Main() {
 		Calculator calc = new(6);
+		Calculator calc1 = new(6);
 		Console.WriteLine(Calculator.phi);
-        Console.WriteLine(calc.x);
+		Console.WriteLine(calc.x);
 	}
 }
 class Calculator{

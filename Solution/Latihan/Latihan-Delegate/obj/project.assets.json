@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kirana\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+      "projectUniqueName": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
       "projectName": "Latihan-Delegate",
-      "projectPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
-      "packagesPath": "C:\\Users\\Kirana\\.nuget\\packages\\",
-      "outputPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
+      "projectPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+      "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+      "outputPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kirana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
