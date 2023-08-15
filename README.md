@@ -160,21 +160,20 @@ int x = int.Parse(input);
 ``` public delegate void MyDel() ``` <br>
 **Karakteristik *signature*** => method di dalamnya MUST HAVE THE SAME RETURN VALUE AND PARAMETER
     - Callback function
-    - Publisher Subscriber
+    - Publisher Subscriber (untuk notif)
 
 - Tuple
 ---
 > ### Day 8 - 09/08/2023
 - Event: 
     - EventArgs.
-    - tidak bisa = saja
+    - tidak bisa = saja, bertambah sedikit2
 - ExceptionHandler => try catch
 - Parse, TryParse
 ---
 > ### Day 9 - 10/08/2023
 - Operator Overloading
 - Enum => collection of constant data
-- Enumerator - Denominator
 - Try-Catch-Finally
 - Enumerable (kendaraan) => return IEnumerator (mesin)
     - Object yg bisa di-iterasi
@@ -211,7 +210,7 @@ Ref Type
     - Array
     - Object
 
-
+---
 ## Week 3
 > ### Day 11 - 14/08/2023
 - Collection of multiple data YANG BISA DIUBAH, tidak seperti enum
@@ -246,5 +245,16 @@ Ref Type
     - Sort based on the key
     
 > ### Day 12 - 15/08/2023
+- Stack => LIFO, ada versi generic
+    - Push()
+    - Pop()
+    - Peek()
+    - Clone() => pada value type yg digandakan instance nya, ref type address nya
+    - CopyTo() => tidak saling ketergantungan
+- Queue => ada versi generic
+    - Enqueue()
+    - Dequeue()
+    - Peek()
+- Class yg sama, namun beda file => use partial class (berguna untuk game)
 
 > ### Day 13 - 16/08/2023

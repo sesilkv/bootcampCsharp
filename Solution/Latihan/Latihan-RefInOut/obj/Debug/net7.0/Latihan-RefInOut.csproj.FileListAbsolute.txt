@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\bin\Debug\net7.0\Latihan-RefInOut.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\bin\Debug\net7.0\Latihan-RefInOut.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\bin\Debug\net7.0\Latihan-RefInOut.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\bin\Debug\net7.0\Latihan-RefInOut.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\bin\Debug\net7.0\Latihan-RefInOut.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\refint\Latihan-RefInOut.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\Latihan-RefInOut.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Latihan\Latihan-RefInOut\obj\Debug\net7.0\ref\Latihan-RefInOut.dll

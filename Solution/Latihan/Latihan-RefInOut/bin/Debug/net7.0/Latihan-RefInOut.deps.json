@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Latihan-RefInOut/1.0.0": {
+        "runtime": {
+          "Latihan-RefInOut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latihan-RefInOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

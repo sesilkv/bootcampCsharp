@@ -42,5 +42,9 @@
 		object obj7 = "67";
 		int j = obj7 as int? ?? 7;
 		Console.WriteLine(j);
+		
+		string str2 = "baba";
+		string myStr = str2 as string ?? "false";
+		Console.WriteLine(myStr);
 	}
 }
