@@ -7,16 +7,19 @@ public class Program
 		// Printer700Ribu print2 = new();
 		Printer300Ribu print1 = new();
 		
-		IPrint printerMurah = print1;
-		printerMurah.Print();
+		// IPrint printerMurah = print1;
+		// printerMurah.Print();
 		
-		IPrinterMahal printerMahal = print3;
-		printerMahal.Print();
-		printerMahal.Scan();
-		printerMahal.Fax();
+		// IPrinterMahal printerMahal = print3;
+		// printerMahal.Print();
+		// printerMahal.Scan();
+		// printerMahal.Fax();
 		
-		IScan printerscan = print3;
-		printerscan.Scan();
+		// IScan printerscan = print3;
+		// printerscan.Scan();
+		
+		PrinterMahal printmhl = new(print3);
+		printmhl.Use();
 		}
 
 }

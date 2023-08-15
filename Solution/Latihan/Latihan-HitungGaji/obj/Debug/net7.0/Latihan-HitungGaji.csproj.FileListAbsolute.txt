@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\bin\Debug\net7.0\Latihan-HitungGaji.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\bin\Debug\net7.0\Latihan-HitungGaji.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\bin\Debug\net7.0\Latihan-HitungGaji.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\bin\Debug\net7.0\Latihan-HitungGaji.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\bin\Debug\net7.0\Latihan-HitungGaji.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\refint\Latihan-HitungGaji.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\Latihan-HitungGaji.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-HitungGaji\obj\Debug\net7.0\ref\Latihan-HitungGaji.dll

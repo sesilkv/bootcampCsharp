@@ -39,8 +39,8 @@
 			Console.WriteLine(str5);
 		}
 
-		object obj7 = 67;
-		int j = obj7 as int? ?? 0;
+		object obj7 = "67";
+		int j = obj7 as int? ?? 7;
 		Console.WriteLine(j);
 	}
 }
