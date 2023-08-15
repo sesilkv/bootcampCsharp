@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "AiuA3WzLui3PlkoGCTgP22or3gpzcQenXk2CsfaYtYOPXpDHmj/ezXPFKQBiRhgOTezGylshF2bnD2M4/8Qo9A==",
+=======
+  "dgSpecHash": "n0j0dNPXTTM60g2uOP3OJeKdyxF9RO9HZPASnntLz2kGhKb4mWIxFfOdK42L+OoV7iPvs9fuDXXwIzbYLp2TCQ==",
+>>>>>>> c3c8af6c532c39816c692ed29dee86c35b9ece38
   "success": true,
   "projectFilePath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
   "expectedPackageFiles": [],

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj": {}
+    "D:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj": {}
   },
   "projects": {
-    "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj": {
+    "D:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj",
+        "projectUniqueName": "D:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj",
         "projectName": "Project23-ConstReadOnly",
-        "projectPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "C:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\obj\\",
+        "projectPath": "D:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\Project23-ConstReadOnly.csproj",
+        "packagesPath": "C:\\Users\\Kirana\\.nuget\\packages\\",
+        "outputPath": "D:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Week 2\\Day6\\Project23-ConstReadOnly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kirana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

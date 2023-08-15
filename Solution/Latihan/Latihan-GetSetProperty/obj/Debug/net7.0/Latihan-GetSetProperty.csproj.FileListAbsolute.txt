@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\bin\Debug\net7.0\Latihan-GetSetProperty.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\bin\Debug\net7.0\Latihan-GetSetProperty.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\bin\Debug\net7.0\Latihan-GetSetProperty.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\bin\Debug\net7.0\Latihan-GetSetProperty.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\bin\Debug\net7.0\Latihan-GetSetProperty.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\refint\Latihan-GetSetProperty.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\Latihan-GetSetProperty.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-GetSetProperty\obj\Debug\net7.0\ref\Latihan-GetSetProperty.dll

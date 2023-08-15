@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\bin\Debug\net7.0\Latihan-Basic.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\bin\Debug\net7.0\Latihan-Basic.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\bin\Debug\net7.0\Latihan-Basic.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\bin\Debug\net7.0\Latihan-Basic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\bin\Debug\net7.0\Latihan-Basic.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\refint\Latihan-Basic.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\Latihan-Basic.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Latihan\Latihan-Basic\obj\Debug\net7.0\ref\Latihan-Basic.dll

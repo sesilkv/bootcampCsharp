@@ -43,3 +43,20 @@ public class Printer3Juta : IPrinterMahal
 		Console.WriteLine("Faxing");
 	}
 }
+
+public class PrinterMahal
+{
+	public IPrinterMahal printermahal;
+	
+	public PrinterMahal(IPrinterMahal printermahal)
+	{
+		this.printermahal = printermahal;
+	}
+	
+	public void Use()
+	{
+		printermahal.Print();
+		printermahal.Fax();
+		// printermahal.Scan();
+	}
+}

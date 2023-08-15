@@ -26,7 +26,11 @@ class Program
 				Console.WriteLine(Rainbow.Merah);
 				break;
 			default:
-				Console.WriteLine(Rainbow.color);
+				Console.WriteLine("Bukan warna yang dimaksud");
+				break;
 		}
+		
+		int numbColor = (int)Rainbow.Ungu;
+		Console.WriteLine(numbColor);
 	}
 }
