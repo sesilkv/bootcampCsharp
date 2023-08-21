@@ -256,5 +256,16 @@ Ref Type
     - Dequeue()
     - Peek()
 - Class yg sama, namun beda file => use partial class (berguna untuk game)
+- Sealed
 
 > ### Day 13 - 16/08/2023
+- Focus test one on one
+
+> ### Day 14 - Day 15 (17/08/2023 - 18/08/2023)
+- Libur 17an
+
+## Week 4
+> ### Day 16 - 21/08/2023
+WFH
+
+> ### Day 17 - 22/08/2023

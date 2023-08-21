@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project52-Array2/1.0.0": {
+        "runtime": {
+          "Project52-Array2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project52-Array2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

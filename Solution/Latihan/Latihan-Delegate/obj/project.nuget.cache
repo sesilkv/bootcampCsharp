@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wL9QpLH81b9tqu6oKjAZLoI0mHnjT7TQYFf4KpDy/5mZpZ/VU4CMQmsGSd6AdklO6fTmhtLs6y6dzhXh7ZUY5w==",
-=======
   "dgSpecHash": "utitu8jA4w/RGKgPVGrLNMKG927ThyDA0S1PyrASKjtMcxo6RkQWODUy/vn0Kqu512t0+IaOhkHwQBSeNfRzkw==",
->>>>>>> c3c8af6c532c39816c692ed29dee86c35b9ece38
   "success": true,
-  "projectFilePath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+  "projectFilePath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

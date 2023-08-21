@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\bin\Debug\net7.0\Project56-Dictionary.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\bin\Debug\net7.0\Project56-Dictionary.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\bin\Debug\net7.0\Project56-Dictionary.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\bin\Debug\net7.0\Project56-Dictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\bin\Debug\net7.0\Project56-Dictionary.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\refint\Project56-Dictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\Project56-Dictionary.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project56-Dictionary\obj\Debug\net7.0\ref\Project56-Dictionary.dll

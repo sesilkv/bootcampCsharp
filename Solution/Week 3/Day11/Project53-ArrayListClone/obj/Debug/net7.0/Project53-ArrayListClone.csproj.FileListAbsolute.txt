@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\bin\Debug\net7.0\Project53-ArrayListClone.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\bin\Debug\net7.0\Project53-ArrayListClone.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\bin\Debug\net7.0\Project53-ArrayListClone.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\bin\Debug\net7.0\Project53-ArrayListClone.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\bin\Debug\net7.0\Project53-ArrayListClone.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\refint\Project53-ArrayListClone.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\Project53-ArrayListClone.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListClone\obj\Debug\net7.0\ref\Project53-ArrayListClone.dll

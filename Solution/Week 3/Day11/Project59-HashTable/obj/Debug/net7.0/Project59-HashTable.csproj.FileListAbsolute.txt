@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\bin\Debug\net7.0\Project59-HashTable.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\bin\Debug\net7.0\Project59-HashTable.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\bin\Debug\net7.0\Project59-HashTable.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\bin\Debug\net7.0\Project59-HashTable.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\bin\Debug\net7.0\Project59-HashTable.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\refint\Project59-HashTable.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\Project59-HashTable.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project59-HashTable\obj\Debug\net7.0\ref\Project59-HashTable.dll

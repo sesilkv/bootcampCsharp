@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\bin\Debug\net7.0\Project52-ArrayvsArrayList.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\bin\Debug\net7.0\Project52-ArrayvsArrayList.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\bin\Debug\net7.0\Project52-ArrayvsArrayList.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\bin\Debug\net7.0\Project52-ArrayvsArrayList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\bin\Debug\net7.0\Project52-ArrayvsArrayList.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\refint\Project52-ArrayvsArrayList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\Project52-ArrayvsArrayList.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-ArrayvsArrayList\obj\Debug\net7.0\ref\Project52-ArrayvsArrayList.dll

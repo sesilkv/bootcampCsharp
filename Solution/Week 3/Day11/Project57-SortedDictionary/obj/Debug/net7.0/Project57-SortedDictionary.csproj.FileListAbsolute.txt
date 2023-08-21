@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\bin\Debug\net7.0\Project57-SortedDictionary.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\bin\Debug\net7.0\Project57-SortedDictionary.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\bin\Debug\net7.0\Project57-SortedDictionary.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\bin\Debug\net7.0\Project57-SortedDictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\bin\Debug\net7.0\Project57-SortedDictionary.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\refint\Project57-SortedDictionary.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\Project57-SortedDictionary.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project57-SortedDictionary\obj\Debug\net7.0\ref\Project57-SortedDictionary.dll

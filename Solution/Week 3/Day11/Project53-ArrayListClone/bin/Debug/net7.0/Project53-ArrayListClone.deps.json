@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project53-ArrayListClone/1.0.0": {
+        "runtime": {
+          "Project53-ArrayListClone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project53-ArrayListClone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
