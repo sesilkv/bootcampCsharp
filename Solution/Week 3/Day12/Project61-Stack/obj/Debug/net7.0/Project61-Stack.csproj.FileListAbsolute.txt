@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\bin\Debug\net7.0\Project61-Stack.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\bin\Debug\net7.0\Project61-Stack.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\bin\Debug\net7.0\Project61-Stack.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\bin\Debug\net7.0\Project61-Stack.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\bin\Debug\net7.0\Project61-Stack.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\refint\Project61-Stack.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\Project61-Stack.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project61-Stack\obj\Debug\net7.0\ref\Project61-Stack.dll

@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\bin\Debug\net7.0\Project52-Array2.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\bin\Debug\net7.0\Project52-Array2.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\bin\Debug\net7.0\Project52-Array2.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\bin\Debug\net7.0\Project52-Array2.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\bin\Debug\net7.0\Project52-Array2.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\refint\Project52-Array2.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\Project52-Array2.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project52-Array2\obj\Debug\net7.0\ref\Project52-Array2.dll

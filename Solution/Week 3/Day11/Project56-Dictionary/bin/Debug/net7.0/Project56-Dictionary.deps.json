@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project56-Dictionary/1.0.0": {
+        "runtime": {
+          "Project56-Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project56-Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

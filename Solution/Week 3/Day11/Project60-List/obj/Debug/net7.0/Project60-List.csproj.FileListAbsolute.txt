@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\bin\Debug\net7.0\Project60-List.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\bin\Debug\net7.0\Project60-List.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\bin\Debug\net7.0\Project60-List.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\bin\Debug\net7.0\Project60-List.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\bin\Debug\net7.0\Project60-List.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\refint\Project60-List.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\Project60-List.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project60-List\obj\Debug\net7.0\ref\Project60-List.dll

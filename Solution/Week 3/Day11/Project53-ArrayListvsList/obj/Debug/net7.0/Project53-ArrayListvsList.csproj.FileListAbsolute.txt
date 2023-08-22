@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\bin\Debug\net7.0\Project53-ArrayListvsList.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\bin\Debug\net7.0\Project53-ArrayListvsList.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\bin\Debug\net7.0\Project53-ArrayListvsList.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\bin\Debug\net7.0\Project53-ArrayListvsList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\bin\Debug\net7.0\Project53-ArrayListvsList.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\refint\Project53-ArrayListvsList.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\Project53-ArrayListvsList.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayListvsList\obj\Debug\net7.0\ref\Project53-ArrayListvsList.dll

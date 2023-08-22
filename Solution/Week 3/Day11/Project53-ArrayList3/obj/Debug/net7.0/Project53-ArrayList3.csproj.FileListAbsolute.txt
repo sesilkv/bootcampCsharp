@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\bin\Debug\net7.0\Project53-ArrayList3.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\bin\Debug\net7.0\Project53-ArrayList3.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\bin\Debug\net7.0\Project53-ArrayList3.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\bin\Debug\net7.0\Project53-ArrayList3.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\bin\Debug\net7.0\Project53-ArrayList3.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\refint\Project53-ArrayList3.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\Project53-ArrayList3.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day11\Project53-ArrayList3\obj\Debug\net7.0\ref\Project53-ArrayList3.dll

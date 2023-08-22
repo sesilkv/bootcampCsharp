@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 4\\.nuget\\packages\\": {}
+    "C:\\Users\\Kirana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
+      "projectUniqueName": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
       "projectName": "Latihan-FooBar",
-      "projectPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
-      "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\",
+      "projectPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
+      "packagesPath": "C:\\Users\\Kirana\\.nuget\\packages\\",
+      "outputPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kirana\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+>>>>>>> 0dad0fa08a6a4508cd34d0a12ad93310ee5919f1
       }
     }
   },
@@ -68,7 +72,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 0dad0fa08a6a4508cd34d0a12ad93310ee5919f1
     }
   ]
 }
