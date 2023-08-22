@@ -1,0 +1,15 @@
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.csproj.AssemblyReference.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.AssemblyInfoInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.AssemblyInfo.cs
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.csproj.CoreCompileInputs.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\bin\Debug\net7.0\Project63-PartialClass.exe
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\bin\Debug\net7.0\Project63-PartialClass.deps.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\bin\Debug\net7.0\Project63-PartialClass.runtimeconfig.json
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\bin\Debug\net7.0\Project63-PartialClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\bin\Debug\net7.0\Project63-PartialClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\refint\Project63-PartialClass.dll
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.pdb
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\Project63-PartialClass.genruntimeconfig.cache
+D:\Belajar-Csharp\bootcampCsharp\Solution\Week 3\Day12\Project63-PartialClass\obj\Debug\net7.0\ref\Project63-PartialClass.dll

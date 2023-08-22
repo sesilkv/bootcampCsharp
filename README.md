@@ -255,7 +255,10 @@ Ref Type
     - Enqueue()
     - Dequeue()
     - Peek()
-- Class yg sama, namun beda file => use partial class (berguna untuk game)
+- Partial Class
+    - Class & namespace yg sama, namun beda file
+    - MUST have same access modifier
+    - Berguna untuk game
 - Sealed
 
 > ### Day 13 - 16/08/2023
