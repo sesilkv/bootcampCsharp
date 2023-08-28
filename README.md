@@ -536,9 +536,40 @@ Ref Type
 
 > ### Day 14 - Day 15 (17/08/2023 - 18/08/2023)
 - Libur 17an
-
+---
 ## Week 4
 > ### Day 16 - 21/08/2023
-WFH
+- WFH
 
-> ### Day 17 - 22/08/2023
+> ### Day 17 - Day 20 (22/08/2023 - 25/08/2023)
+- Project 1 (Class Diagram)
+---
+## Week 5
+> ### Day 21 (28/08/2023)
+- Coba aplikasi .NET Memory Profiler 
+- Garbage Collection (move heap memory: gen0, gen1, gen2 => mark and sweep): using heap pointer
+    - Work automatically based on time & memory size (random)
+    - Dipanggil scr manual (FORCE GC) `GC.Collect();` , `GC.WaitForPendingFinalizers();` ga boleh dipanggil
+    - *Side effect:* saat melakukan pembersihan, program akan stop for nanosecond
+- Finalizer/Destructor
+    - Dipanggil tepat sebelum GC melakukan pembersihan
+    - Membuat program lebih lemot doang, ga boleh digunakan
+    - Tidak bisa diisi access modifier, parameter, cukup kosongan
+    ```
+    public class Car{
+        //destructor
+        ~Car {
+        
+        }
+    }
+    ```
+- Data Type
+    - Managed Type (int, string, class, object) => garbage collection bisa membersihkan
+    - Unmanaged Type (external resource: file, database, API, HTTP Request, networking) => Dispose Pattern
+- `IDisposable` / Method `.Dispose();`
+    - For cleaning the unmanaged type (external resources)
+    - External resource tidak akan membebankan lagi
+    - Efektif menggunakan `using`
+
+> ### Day 22 (29/08/2023)
+
