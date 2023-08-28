@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {}
+    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {}
   },
   "projects": {
-    "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {
+    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+        "projectUniqueName": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
         "projectName": "Latihan-Delegate",
-        "projectPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
-        "packagesPath": "C:\\Users\\Kirana\\.nuget\\packages\\",
-        "outputPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
+        "projectPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\Latihan-Delegate.csproj",
+        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+        "outputPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kirana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,11 +53,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
->>>>>>> 0dad0fa08a6a4508cd34d0a12ad93310ee5919f1
         }
       }
     }
