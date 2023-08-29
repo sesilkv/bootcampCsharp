@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\bin\Debug\net7.0\Project72-HotReload.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\bin\Debug\net7.0\Project72-HotReload.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\bin\Debug\net7.0\Project72-HotReload.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\bin\Debug\net7.0\Project72-HotReload.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\bin\Debug\net7.0\Project72-HotReload.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\refint\Project72-HotReload.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\Project72-HotReload.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project72-HotReload\obj\Debug\net7.0\ref\Project72-HotReload.dll

@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\bin\Debug\net7.0\Project71-Debugger.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\bin\Debug\net7.0\Project71-Debugger.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\bin\Debug\net7.0\Project71-Debugger.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\bin\Debug\net7.0\Project71-Debugger.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\bin\Debug\net7.0\Project71-Debugger.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\refint\Project71-Debugger.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\Project71-Debugger.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project71-Debugger\obj\Debug\net7.0\ref\Project71-Debugger.dll

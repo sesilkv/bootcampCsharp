@@ -13,7 +13,7 @@ namespace QueueCollectionDemo
             // Adding items to the queue using the Enqueue method
             queue.Enqueue(10);
             queue.Enqueue(3.14);
-            queue.Enqueue(true);
+            queue.Enqueue(false);
             queue.Enqueue('A');
             queue.Enqueue("Hello");
 

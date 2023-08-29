@@ -572,4 +572,14 @@ Ref Type
     - Efektif menggunakan `using`
 
 > ### Day 22 (29/08/2023)
+- Conditional Compilation / Preprocessing Directive
+    - Meng-compile kode dari high level language (bahasa manusia) ke dalam low level language (bahasa assembly => .exe dan .dll) dengan menggunakan conditional (if else, elif)
+    - Dijalankan sebelum compile, beda dengan if else biasa
+    - Sintaks `#define` di file .cs
+    - Sintaks `<DefineConstant>` di file .csproj
+    - Terminal `dotnet build -c .... (nama file)`
+- Debugger 
+    - Mencari dan resolve bug
+    - Error ada 2: sintaks error (can't compile) dan logic error (still can compile)
+    - Feature: HotReload (use dotnet watch run) => berguna untuk website 
 

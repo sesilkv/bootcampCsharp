@@ -1,0 +1,15 @@
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\bin\PRODUCTION\net7.0\Project70-ConditionalCompilation3.exe
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\bin\PRODUCTION\net7.0\Project70-ConditionalCompilation3.deps.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\bin\PRODUCTION\net7.0\Project70-ConditionalCompilation3.runtimeconfig.json
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\bin\PRODUCTION\net7.0\Project70-ConditionalCompilation3.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\bin\PRODUCTION\net7.0\Project70-ConditionalCompilation3.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.csproj.AssemblyReference.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.AssemblyInfoInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.AssemblyInfo.cs
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.csproj.CoreCompileInputs.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\refint\Project70-ConditionalCompilation3.dll
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.pdb
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\Project70-ConditionalCompilation3.genruntimeconfig.cache
+C:\BOOTCAMP-SESIL\bootcampCsharp\Solution\Week 5\Day22\Project70-ConditionalCompilation3\obj\PRODUCTION\net7.0\ref\Project70-ConditionalCompilation3.dll
