@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj": {}
+    "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj": {}
   },
   "projects": {
-    "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj": {
+    "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
+        "projectUniqueName": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
         "projectName": "Latihan-FooBar",
-        "projectPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "c:\\BOOTCAMP-SESIL\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\",
+        "projectPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\Latihan-FooBar.csproj",
+        "packagesPath": "C:\\Users\\Kirana\\.nuget\\packages\\",
+        "outputPath": "d:\\Belajar-Csharp\\bootcampCsharp\\Solution\\Latihan\\Latihan-FooBar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kirana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

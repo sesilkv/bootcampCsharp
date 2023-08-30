@@ -546,6 +546,8 @@ Ref Type
 ---
 ## Week 5
 > ### Day 21 (28/08/2023)
+- Perbedaan C/C++ dengan c#
+    - 
 - Coba aplikasi .NET Memory Profiler 
 - Garbage Collection (move heap memory: gen0, gen1, gen2 => mark and sweep): using heap pointer
     - Work automatically based on time & memory size (random)
