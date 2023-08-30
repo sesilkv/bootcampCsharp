@@ -571,7 +571,7 @@ Ref Type
 - `IDisposable` / Method `.Dispose();`
     - For cleaning the unmanaged type (external resources)
     - External resource tidak akan membebankan lagi
-    - Efektif menggunakan `using`
+    - Efektif menggunakan `using` statement
 
 > ### Day 22 (29/08/2023)
 - Conditional Compilation / Preprocessing Directive
@@ -607,7 +607,7 @@ Ref Type
     - Collecting and recording the messages that are sent.
     - `TextWriterTraceListener` di file
     - `ConsoleTraceListener` di terminal biasa
-    - Seperti publisher subscriber di delegate
+    - Seperti publisher (Trace) subscriber (traceListener) di delegate
     - 
 - DocumentationXML
 - Multithreading
