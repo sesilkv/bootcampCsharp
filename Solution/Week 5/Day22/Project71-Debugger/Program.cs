@@ -8,7 +8,7 @@
 		
 		Console.WriteLine($"The result of {x} + {y} is {result}");
 	}
-	
+
 	static double Add(double x, double y)
 	{
 		return x + y;

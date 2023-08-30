@@ -582,6 +582,42 @@ Ref Type
     - Terminal `dotnet build -c .... (nama file)`
 - Debugger 
     - Mencari dan resolve bug
+    - Pake breakpoint
     - Error ada 2: sintaks error (can't compile) dan logic error (still can compile)
     - Feature: HotReload (use dotnet watch run) => berguna untuk website 
+- `"console": "integratedTerminal"` in .json file for input
 
+### Day 23 (30/08/2023)
+- Logging/Log (Record activity program)
+    - Level <br>
+        1-4 using third party library => log4nt, nLog, SeriLog
+        5-6 internal library
+        1. Fatal
+        2. Error
+        3. Warning
+        4. Info
+        5. Debug
+        6. Trace
+    - VSCode => Debug
+    - Debugger => Terminal Debug/Console Debug
+    - The assert() method tests if a given expression is true or not => debugging feature
+    - `dotnet build` for Debug & Trace
+    - `dotnet build -c Release` for Trace
+- Trace
+    - Collecting and recording the messages that are sent.
+    - `TextWriterTraceListener` di file
+    - `ConsoleTraceListener` di terminal biasa
+    - Seperti publisher subscriber di delegate
+    - 
+- DocumentationXML
+- Multithreading
+    - Membuat banyak proses yang berjalan secara bersamaan
+    - Concurrency: execute multiple task in same time
+    - Asynchrony: akan dibahas saat async await
+    - Single threading => namanya Main Thread
+    ```
+    static void Main(){
+
+    }
+    ```
+    - 

@@ -1,0 +1,2 @@
+Fail: This is debug false 
+This is trace statement
