@@ -519,7 +519,7 @@ Ref Type
     - Sort based on the key
     
 > ### Day 12 - 15/08/2023
-- Stack => LIFO, ada versi generic
+- Stack => kumpulan memori LIFO, ada versi generic
     - Push()
     - Pop()
     - Peek()
@@ -608,9 +608,11 @@ Ref Type
     - `TextWriterTraceListener` di file
     - `ConsoleTraceListener` di terminal biasa
     - Seperti publisher (Trace) subscriber (traceListener) di delegate
-    - 
-- DocumentationXML
-- Multithreading
+- DocumentationXML => optional
+
+### Day 24 (31/08/2023)
+- Multithreading (NOT RECOMMENDED low level)
+    - Foreground Thread: Main Thread stop, another thread still running
     - Membuat banyak proses yang berjalan secara bersamaan
     - Concurrency: execute multiple task in same time
     - Asynchrony: akan dibahas saat async await
@@ -620,4 +622,17 @@ Ref Type
 
     }
     ```
-    - 
+    - Property `Priority` or `Highest` tidak boleh dipakai
+    - Passing parameter in Thread must using object
+    - Passing parameter can using another data type, but using Lambda Expression ( ()=>.... ) on Main
+- Task (RECOMMENDED high level)
+    - Background Thread: Main Thread stop, another thread also stop
+    - ThreadPool (kumpulan)
+---
+Method Join on Thread membuat Main Thread blocking & less performance
+-- <br>
+
+- Async-await
+    - await hanya berlaku di return type Task
+    - Task menampung status dan return value
+
