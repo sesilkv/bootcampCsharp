@@ -616,6 +616,8 @@ Ref Type
     - Membuat banyak proses yang berjalan secara bersamaan
     - Concurrency: execute multiple task in same time
     - Asynchrony: akan dibahas saat async await
+    - `Thread.Abort();` NOT RECOMMENDED caused Undefined State, like Destructor/Finalizer
+    - Thread punya banyak Stack
     - Single threading => namanya Main Thread
     ```
     static void Main(){
@@ -636,3 +638,19 @@ Method Join on Thread membuat Main Thread blocking & less performance
     - await hanya berlaku di return type Task
     - Task menampung status dan return value
 
+### Day 25 (01/09/2023)
+- Cancellation Token => stop the task
+    - There are two:
+        - `CancellationTokenSource` as Listener
+        - `CancellationToken` as Status/Variable
+- Multi Threading: RaceCondition
+    - 2 or more threads to 1 variable (rebutan)
+    - Solving with Lock Mechanism => kayak try catch
+    ```
+    static object counterLock = new object();
+    lock (counterLock)
+    ```
+- Multi Threading: DeadLock
+    - 2 or more threads tunggu2an
+    - Solving with Async-Await & Technique
+- Multi Threading: Semaphore
