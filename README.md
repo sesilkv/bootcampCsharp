@@ -654,3 +654,37 @@ Method Join on Thread membuat Main Thread blocking & less performance
     - 2 or more threads tunggu2an
     - Solving with Async-Await & Technique
 - Multi Threading: Semaphore
+
+---
+## Week 6
+### Day 26 (04/09/2023)
+- File 
+    - Load File
+    - Data kecil
+- FileStream
+    - Load File by chunk/buffer (streaming)
+    - For big data
+    - `StreamWriter` and `StreamReader`
+    - Filepath
+        - Absolute: full path
+        - Relative: from working directory
+    ```
+    new FileStream(path, FileMode, FileAccess, FileShared)
+    ```
+    - class enum FileMode
+        - CreateNew: if exist => exception
+        - Create: if exist => replace
+        - Open: if not found => exception
+        - OpenOrCreate: open file, if not found => create
+        - Truncate: When the file is opened, it should be truncated so that its size is zero bytes. 
+        - Append: += file
+    - class enum FileAccess
+        - Read
+        - Write
+        - ReadWrite
+    - FileShare (akses, opsional)
+        - None
+        - Read
+        - ReadWrite
+        - Inheritable
+        - Delete
