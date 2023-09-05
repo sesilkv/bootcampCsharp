@@ -688,3 +688,12 @@ Method Join on Thread membuat Main Thread blocking & less performance
         - ReadWrite
         - Inheritable
         - Delete
+
+### Day 27 (05/09/2023)
+- Serialization
+    - Convert instance object to: 
+        a. binary => obsolete
+            use 3rd party package: protobuf-net, nuget package
+        b. json {[]}
+        c. XML <>
+- Deserialize

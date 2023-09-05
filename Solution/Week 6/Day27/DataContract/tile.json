@@ -1,0 +1,22 @@
+[
+{
+"_position": 1,
+"_tileName": "Start",
+"_tileType": 0
+},
+{
+"_position": 2,
+"_tileName": "Indonesia",
+"_tileType": 1
+},
+{
+"_position": 3,
+"_tileName": "China",
+"_tileType": 1
+},
+{
+"_position": 4,
+"_tileName": "Tax",
+"_tileType": 2
+}
+]
